@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 数据（notebook 会自动下载）
+data/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
